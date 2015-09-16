@@ -1,27 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:11.613388
+#+DATE: 2015-08-30 20:12:12.281104
 #+TITLE: 五母子經
 #+PROPERTY: CBETA_ID T14n0555a
 #+PROPERTY: ID KR6i0186
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 555a
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0186_T_000-0906b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0186_T_001-0906b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.555¶
-
- 五母子經¶
+No. 555¶
+五母子經¶
 ¶
 吳月氏國居士支謙譯¶
 
 昔者有阿羅漢在山中奉行道業。有一小
 <pb:KR6i0186_T_001-0906c>¶
-兒年始七歲，大好道法，辭母出家，求作沙¶
-彌，隨大沙門，於山中學道，給師所須，誦經¶
+兒年始七歲，大好道法，辭母出家，求作沙彌，隨大沙門，於山中學道，給師所須，誦經¶
 行道，時無有懈。至年八歲得慧眼，能通視¶
 無極；耳能徹聽，天上、天下所為善惡，皆¶
 聞知之；身能飛行，所在至到能分一身及¶
