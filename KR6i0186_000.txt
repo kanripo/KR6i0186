@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五母子經
+#+DATE: 2015-08-30 20:12:11.792448
+#+PROPERTY: JUAN 0
